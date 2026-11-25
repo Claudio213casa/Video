@@ -1,0 +1,346 @@
+{
+ "duration": 60.91755102040816,
+ "frames": 1828,
+ "phrases": [
+  {
+   "i": 0,
+   "text": "Acordei ontem,",
+   "f0": 0,
+   "f1": 29,
+   "t0": 0.0,
+   "t1": 0.967,
+   "words": 2,
+   "pause_ms": 0
+  },
+  {
+   "i": 1,
+   "text": "seis da manhã,",
+   "f0": 29,
+   "f1": 52,
+   "t0": 0.967,
+   "t1": 1.741,
+   "words": 3,
+   "pause_ms": 0
+  },
+  {
+   "i": 2,
+   "text": "e a rua inteira era de zumbis.",
+   "f0": 52,
+   "f1": 116,
+   "t0": 1.741,
+   "t1": 3.869,
+   "words": 7,
+   "pause_ms": 0
+  },
+  {
+   "i": 3,
+   "text": "Pela janela,",
+   "f0": 116,
+   "f1": 142,
+   "t0": 3.869,
+   "t1": 4.73,
+   "words": 2,
+   "pause_ms": 0
+  },
+  {
+   "i": 4,
+   "text": "os vizinhos arrastavam os pés,",
+   "f0": 159,
+   "f1": 217,
+   "t0": 5.3,
+   "t1": 7.234,
+   "words": 5,
+   "pause_ms": 0
+  },
+  {
+   "i": 5,
+   "text": "gemendo baixo.",
+   "f0": 217,
+   "f1": 246,
+   "t0": 7.234,
+   "t1": 8.202,
+   "words": 2,
+   "pause_ms": 0
+  },
+  {
+   "i": 6,
+   "text": "Dona Marta,",
+   "f0": 246,
+   "f1": 269,
+   "t0": 8.202,
+   "t1": 8.975,
+   "words": 2,
+   "pause_ms": 0
+  },
+  {
+   "i": 7,
+   "text": "sempre forte,",
+   "f0": 269,
+   "f1": 310,
+   "t0": 8.975,
+   "t1": 10.347,
+   "words": 2,
+   "pause_ms": 0
+  },
+  {
+   "i": 8,
+   "text": "cambaleava de olhos fundos.",
+   "f0": 310,
+   "f1": 355,
+   "t0": 10.347,
+   "t1": 11.847,
+   "words": 4,
+   "pause_ms": 0
+  },
+  {
+   "i": 9,
+   "text": "Fechei a porta e empilhei sofá,",
+   "f0": 355,
+   "f1": 419,
+   "t0": 11.847,
+   "t1": 13.961,
+   "words": 6,
+   "pause_ms": 0
+  },
+  {
+   "i": 10,
+   "text": "prateleira,",
+   "f0": 419,
+   "f1": 423,
+   "t0": 13.961,
+   "t1": 14.1,
+   "words": 1,
+   "pause_ms": 0
+  },
+  {
+   "i": 11,
+   "text": "bicicleta.",
+   "f0": 440,
+   "f1": 464,
+   "t0": 14.68,
+   "t1": 15.454,
+   "words": 1,
+   "pause_ms": 0
+  },
+  {
+   "i": 12,
+   "text": "Liguei para a polícia:",
+   "f0": 464,
+   "f1": 510,
+   "t0": 15.454,
+   "t1": 17.001,
+   "words": 4,
+   "pause_ms": 0
+  },
+  {
+   "i": 13,
+   "text": "só gemidos do outro lado.",
+   "f0": 510,
+   "f1": 559,
+   "t0": 17.001,
+   "t1": 18.62,
+   "words": 5,
+   "pause_ms": 0
+  },
+  {
+   "i": 14,
+   "text": "Trinta minutos de gemidos.",
+   "f0": 576,
+   "f1": 642,
+   "t0": 19.2,
+   "t1": 21.394,
+   "words": 4,
+   "pause_ms": 0
+  },
+  {
+   "i": 15,
+   "text": "Mas os zumbis não tentavam entrar.",
+   "f0": 642,
+   "f1": 714,
+   "t0": 21.394,
+   "t1": 23.797,
+   "words": 6,
+   "pause_ms": 0
+  },
+  {
+   "i": 16,
+   "text": "Eles apenas gemiam,",
+   "f0": 714,
+   "f1": 770,
+   "t0": 23.797,
+   "t1": 25.677,
+   "words": 3,
+   "pause_ms": 0
+  },
+  {
+   "i": 17,
+   "text": "de janela em janela,",
+   "f0": 770,
+   "f1": 815,
+   "t0": 25.677,
+   "t1": 27.17,
+   "words": 4,
+   "pause_ms": 0
+  },
+  {
+   "i": 18,
+   "text": "sempre a caminho do mesmo lugar.",
+   "f0": 829,
+   "f1": 893,
+   "t0": 27.64,
+   "t1": 29.768,
+   "words": 6,
+   "pause_ms": 0
+  },
+  {
+   "i": 19,
+   "text": "Aí percebi o principal:",
+   "f0": 893,
+   "f1": 949,
+   "t0": 29.768,
+   "t1": 31.634,
+   "words": 4,
+   "pause_ms": 0
+  },
+  {
+   "i": 20,
+   "text": "nenhum deles me via.",
+   "f0": 949,
+   "f1": 984,
+   "t0": 31.634,
+   "t1": 32.794,
+   "words": 4,
+   "pause_ms": 0
+  },
+  {
+   "i": 21,
+   "text": "Liguei a TV,",
+   "f0": 984,
+   "f1": 1018,
+   "t0": 32.794,
+   "t1": 33.947,
+   "words": 3,
+   "pause_ms": 0
+  },
+  {
+   "i": 22,
+   "text": "e a notícia explicava tudo.",
+   "f0": 1018,
+   "f1": 1087,
+   "t0": 33.947,
+   "t1": 36.217,
+   "words": 5,
+   "pause_ms": 0
+  },
+  {
+   "i": 23,
+   "text": "Faltou café na cidade inteira.",
+   "f0": 1087,
+   "f1": 1155,
+   "t0": 36.217,
+   "t1": 38.51,
+   "words": 5,
+   "pause_ms": 0
+  },
+  {
+   "i": 24,
+   "text": "Corri pro espelho.",
+   "f0": 1155,
+   "f1": 1193,
+   "t0": 38.51,
+   "t1": 39.754,
+   "words": 3,
+   "pause_ms": 0
+  },
+  {
+   "i": 25,
+   "text": "Palidez,",
+   "f0": 1193,
+   "f1": 1210,
+   "t0": 39.754,
+   "t1": 40.334,
+   "words": 1,
+   "pause_ms": 0
+  },
+  {
+   "i": 26,
+   "text": "olhos fundos,",
+   "f0": 1210,
+   "f1": 1249,
+   "t0": 40.334,
+   "t1": 41.647,
+   "words": 2,
+   "pause_ms": 0
+  },
+  {
+   "i": 27,
+   "text": "gemido ao andar.",
+   "f0": 1249,
+   "f1": 1284,
+   "t0": 41.647,
+   "t1": 42.808,
+   "words": 3,
+   "pause_ms": 0
+  },
+  {
+   "i": 28,
+   "text": "Na cidade sem café,",
+   "f0": 1284,
+   "f1": 1343,
+   "t0": 42.808,
+   "t1": 44.77,
+   "words": 4,
+   "pause_ms": 0
+  },
+  {
+   "i": 29,
+   "text": "o último acordado era o de menos.",
+   "f0": 1343,
+   "f1": 1422,
+   "t0": 44.77,
+   "t1": 47.414,
+   "words": 7,
+   "pause_ms": 0
+  },
+  {
+   "i": 30,
+   "text": "O zumbi mais convencido da rua sou eu,",
+   "f0": 1422,
+   "f1": 1500,
+   "t0": 47.414,
+   "t1": 49.994,
+   "words": 8,
+   "pause_ms": 0
+  },
+  {
+   "i": 31,
+   "text": "desde que não abro a lotérica na segunda.",
+   "f0": 1500,
+   "f1": 1581,
+   "t0": 49.994,
+   "t1": 52.7,
+   "words": 8,
+   "pause_ms": 0
+  },
+  {
+   "i": 32,
+   "text": "E olha,",
+   "f0": 1597,
+   "f1": 1615,
+   "t0": 53.24,
+   "t1": 53.82,
+   "words": 2,
+   "pause_ms": 0
+  },
+  {
+   "i": 33,
+   "text": "faltou café até hoje.",
+   "f0": 1615,
+   "f1": 1661,
+   "t0": 53.82,
+   "t1": 55.368,
+   "words": 4,
+   "pause_ms": 0
+  }
+ ]
+}
